@@ -1,9 +1,9 @@
-package main
+package ex_1_saying_hello
 
 import "fmt"
 import "math/rand"
 
-func main() {
+func Example1() {
 	var firstName string
 	greetings := []string{
 		"Hello",
