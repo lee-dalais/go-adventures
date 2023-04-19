@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func Example2() {
+func Example() {
 	var input string
 	for true {
 		fmt.Println("What is the input string?")

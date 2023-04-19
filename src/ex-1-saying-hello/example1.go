@@ -3,7 +3,7 @@ package ex_1_saying_hello
 import "fmt"
 import "math/rand"
 
-func Example1() {
+func Example() {
 	var firstName string
 	greetings := []string{
 		"Hello",
